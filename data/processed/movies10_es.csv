@@ -1,0 +1,3 @@
+movieId,title,genres,year,overview,overview_es
+0,Película de prueba,Comedy,2020,A retired chef opens a tiny food truck and accidentally becomes the most famous cook in town.,Un chef retirado abre un pequeño camión de comida y se convierte accidentalmente en el cocinero más famoso de la ciudad.
+-1,Película sin sinopsis,Drama,,,
